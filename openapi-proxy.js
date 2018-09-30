@@ -43,7 +43,7 @@ console.log(" | |__| || |     | |____ | |\\  |  / ____ \\ | |     _| |_   | |  |
 console.log("  \\____/ |_|     |______||_| \\_| /_/    \\_\\|_|    |_____|  |_|  |_|   |_|      |_|   |_|      |_|    |_|   \\___//_/\\_\\ \\__, |")
 console.log("                                                                                                                        __/ |")
 console.log("                                                                                                                       |___/ ")
-
-console.log("Starting nodejs server...")
+console.log("")
+console.log("OPEN API Proxy server listening on local port HTTP 80")
 server.listen(80);    
 
